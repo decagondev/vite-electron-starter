@@ -1,6 +1,6 @@
-# md-preview
+# vite electron starter
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript. using this for vite
 
 ## Recommended IDE Setup
 
